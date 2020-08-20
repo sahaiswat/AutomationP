@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67656" started-at="2020-08-18T12:20:54 NZST" finished-at="2020-08-18T12:22:02 NZST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67656" started-at="2020-08-18T12:20:54 NZST" finished-at="2020-08-18T12:22:02 NZST">
+      <class name="com.qa.testcase.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="SetUp" is-config="true" duration-ms="16920" started-at="2020-08-18T12:20:54 NZST" finished-at="2020-08-18T12:21:11 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyHomepageTitleTest()[pri:1, instance:com.qa.testcase.HomePageTest@5f282abb]" name="VerifyHomepageTitleTest" duration-ms="12" started-at="2020-08-18T12:21:11 NZST" finished-at="2020-08-18T12:21:11 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepageTitleTest -->
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="CloseApplication" is-config="true" duration-ms="656" started-at="2020-08-18T12:21:11 NZST" finished-at="2020-08-18T12:21:12 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="SetUp" is-config="true" duration-ms="15729" started-at="2020-08-18T12:21:12 NZST" finished-at="2020-08-18T12:21:28 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyUsernameLabelTest()[pri:2, instance:com.qa.testcase.HomePageTest@5f282abb]" name="VerifyUsernameLabelTest" duration-ms="84" started-at="2020-08-18T12:21:28 NZST" finished-at="2020-08-18T12:21:28 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUsernameLabelTest -->
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="CloseApplication" is-config="true" duration-ms="613" started-at="2020-08-18T12:21:28 NZST" finished-at="2020-08-18T12:21:28 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="SetUp" is-config="true" duration-ms="16131" started-at="2020-08-18T12:21:28 NZST" finished-at="2020-08-18T12:21:44 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ClickOnDealsPagetest()[pri:3, instance:com.qa.testcase.HomePageTest@5f282abb]" name="ClickOnDealsPagetest" duration-ms="136" started-at="2020-08-18T12:21:44 NZST" finished-at="2020-08-18T12:21:45 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDealsPagetest -->
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="CloseApplication" is-config="true" duration-ms="653" started-at="2020-08-18T12:21:45 NZST" finished-at="2020-08-18T12:21:45 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="SetUp" is-config="true" duration-ms="15945" started-at="2020-08-18T12:21:45 NZST" finished-at="2020-08-18T12:22:01 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ClickonContactsPageTest()[pri:4, instance:com.qa.testcase.HomePageTest@5f282abb]" name="ClickonContactsPageTest" duration-ms="118" started-at="2020-08-18T12:22:01 NZST" finished-at="2020-08-18T12:22:01 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonContactsPageTest -->
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcase.HomePageTest@5f282abb]" name="CloseApplication" is-config="true" duration-ms="621" started-at="2020-08-18T12:22:01 NZST" finished-at="2020-08-18T12:22:02 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- com.qa.testcase.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
